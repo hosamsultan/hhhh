@@ -3,6 +3,8 @@
 
 int main()
 {
-    printf("eshta 3leeeeeeek");
+    printf("eshta 3lek");
+
+
     return 0;
 }
