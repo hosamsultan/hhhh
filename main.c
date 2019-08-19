@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("eshta 3lek");
+    printf("hindi");
 
 
     return 0;
